@@ -1,2 +1,2 @@
 # netflix-frontend
-This is a frontend inpired by netflix to improve my skills.
+This is a frontend inspired by netflix design to improve my skills.
